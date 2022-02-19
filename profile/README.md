@@ -122,6 +122,26 @@ Ambi frontend software repos:
 If you’d like to join the project, please reach out to [Jim Hodapp](mailto:jim@jimhodappcoaching.com) and let him know
 that you're interested in practicing and contributing to the project.
 
+## Learning + Resources
+
+__Rust__
+ * [Rust Book](https://doc.rust-lang.org/book/): Free, start here when learning Rust for the first time as well as for
+ core language reference
+ * [Rust by Example](https://doc.rust-lang.org/rust-by-example/): Free, hands-on and guided homework on almost every major
+ area of Rust
+ * [Rust in Action](https://www.manning.com/books/rust-in-action): A great intro book for new Rust developers (assumes zero
+ prior language experience)
+ * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans): When you want to go much deeper in Rust
+
+__Elixir__
+ * [Elixir Getting Started Guide](https://elixir-lang.org/getting-started/introduction.html): Free, start here in learning Elixir
+ * [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition): A great intro book for new Elixir
+ developers (assumes zero prior language experience)
+ * [Phoenix Web Framework](https://hexdocs.pm/phoenix/overview.html): Free, hands-on guides covering the Elixir-based web
+ framework used by Ambi
+ * [Phoenix LiveView frontend](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html): frontend framework used by Ambi
+ providing "real-time user experiences with server-rendered HTML."
+
 # What does Jim Hodapp Coaching have to do with this community?
 
 The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) which you can
