@@ -10,6 +10,14 @@ around the world
 We hang out on a Slack instance called [Rust Never Sleeps](https://rustneversleepshq.slack.com/). [Please contact us if you'd like to
 join the community conversation](mailto:jim@jimhodappcoaching.com).
 
+## Weekly Meetings
+
+We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accomdate more timezones from around the world.
+
+You may find our meetings notes and current community focus for each project (Edge + Ambi) here:
+ * [Ambi meeting notes](https://github.com/Jim-Hodapp-Coaching/ambi/wiki/Community-Meeting-Notes)
+ * [Edge meeting notes](https://github.com/Jim-Hodapp-Coaching/edge-rs/wiki/Community-Meeting-Notes)
+
 
 # Edge + Ambi Projects
 
