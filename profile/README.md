@@ -1,14 +1,22 @@
 # Welcome! 👋
 
-You've landed on an exciting open source software community serving two main purposes:
+Have you ever thought to yourself that you know you can become a better software developer (professionally or for fun) if you could get
+someone with experience to provide you some help and guidance? Well that's exactly what this open source software community is for. We're
+an international group of software craftspeople who love building free software and helping others learn how to do this better.
 
-1. Building useful projects that solve real world problems with a current focus on ambient environment sensing applications like room
-air conditions and visualizing highly localized paragliding climate conditions. The focus will expand over time to other applications.
-2. A place to learn and grow your comprehensive software engineer skillset with other developers of all levels of experience from
-around the world
+Currently we:
+
+1. Build useful projects that solve real world problems with a current focus on ambient environment sensing applications like room
+air conditions and visualizing highly localized paragliding climate conditions. The focus will expand over time to other applications
+like specific ways to help solve climate change or truly better many lives in specific ways.
+2. Are a place to learn and grow your comprehensive software development skillset with others who have all levels of experience (just getting started
+to multiple decades of software building experience) from around the world
 
 We hang out on a Slack instance called [Rust Never Sleeps](https://rustneversleepshq.slack.com/). [Please contact us if you'd like to
 join the community conversation](mailto:jim@jimhodappcoaching.com).
+
+We welcome new members into the community and will provide a more formal way of joining coming soon. In the meantime, feel free to
+browse around the repositories, clone the code, see if you can get everything running, and even contribute bug fixes or new features.
 
 ## Weekly Meetings
 
