@@ -158,17 +158,18 @@ __Elixir__
 # What does Jim Hodapp Coaching have to do with this community?
 
 The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) which you can
-sign up for if you want to get one-on-one assistance in becoming a master software engineer/developer. Currently it's how the
-bills get paid allowing for this community to exist.
+sign up for if you'd like to receive professional one-on-one guidance in becoming a master software engineer/developer.
+It's currently how the bills get paid allowing for this community to exist which includes covering living expenses for Jim Hodapp.
 
 Even though the community exists under the coaching business umbrella, you do not need to participate in coaching if that's not what
-you're currently needing. Learning from and participating in this community exists as a compliment to Jim's coaching services. Feel
-free to jump in, ask questions and propose changes to any of the software that the community is working on. You'll get quality feedback
-on your pull requests which is already something very valuable in helping you become a better software engineer.
+you're currently needing. Learning from and participating in this community exists as a compliment to Jim's coaching services, but you will
+certainly benefit from just starting with community participation. Feel free to jump in, ask questions and propose changes to any
+of the software that the community is working on. You'll get quality feedback on your pull requests which is already something very
+valuable in helping you become a better software engineer.
 
 If you would like to learn more about professional software engineer coaching, please
-[read more about it here](https://reltech.substack.com/p/professional-engineering-coaching?utm_source=url) and [sign up to speak
-with Jim](https://calendly.com/jim-hodapp-coaching) for absolutely zero cost.
+[read more about it here](https://reltech.substack.com/p/professional-engineering-coaching?utm_source=url) and [schedule a completely free
+session with Jim](https://calendly.com/jim-hodapp-coaching).
 
 <!--
 
