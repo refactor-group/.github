@@ -86,7 +86,6 @@ You can get involved in a number of ways:
 9. Design and maintain Pico and sensor wiring guide documentation
 10. Writing overviews and guides of what we’re learning/building for the [Relational Technologist newsletter](https://reltech.substack.com/)
 11. Writing mature project documentation (README and other)
-+ many more...
 
 Edge software repos and hardware:
  * [Edge](https://github.com/Jim-Hodapp-Coaching/edge-rs): our main embedded/IoT application written in 100% Rust targetting
@@ -104,7 +103,6 @@ Edge software repos and hardware:
 6. Architect and implement an automated testing strategy
 7. Writing overviews and guides of what we’re learning/building for the Relational Technologist newsletter
 8. Writing mature project documentation (README and other)
-+ many more...
 
 Ambi backend software repos:
  * [Ambi](https://github.com/Jim-Hodapp-Coaching/ambi) our main web application backend written in Elixir (and soon, some Rust)
@@ -121,7 +119,6 @@ Ambi backend software repos:
 6. Architect and implement an automated testing strategy
 7. Writing overviews and guides of what we’re learning/building for the Relational Technologist newsletter
 8. Writing mature project documentation (README and other)
-+ many more...
 
 Ambi frontend software repos:
  * [Ambi](https://github.com/Jim-Hodapp-Coaching/ambi) our main web application frontend written in Elixir + JavaScript
