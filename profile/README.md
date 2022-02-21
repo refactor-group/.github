@@ -105,7 +105,7 @@ Edge software repos and hardware:
 8. Writing mature project documentation (README and other)
 
 Ambi backend software repos:
- * [Ambi](https://github.com/Jim-Hodapp-Coaching/ambi) our main web application backend written in Elixir (and soon, some Rust)
+ * [Ambi](https://github.com/Jim-Hodapp-Coaching/ambi): our main web application backend written in Elixir (and soon, some Rust)
  * [Ambi Mock Client](https://github.com/Jim-Hodapp-Coaching/ambi_mock_client): an increasingly comprehensive test double (mock)
  of an Edge hardware sensor target that sends simulated sensor data to an Ambi backend instance
 
@@ -121,7 +121,7 @@ Ambi backend software repos:
 8. Writing mature project documentation (README and other)
 
 Ambi frontend software repos:
- * [Ambi](https://github.com/Jim-Hodapp-Coaching/ambi) our main web application frontend written in Elixir + JavaScript
+ * [Ambi](https://github.com/Jim-Hodapp-Coaching/ambi): our main web application frontend written in Elixir + JavaScript
 
 ### Non-technical ways of contributing & software engineer practice
 
