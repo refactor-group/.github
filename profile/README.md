@@ -73,7 +73,7 @@ development skills](https://reltech.substack.com/p/the-importance-of-open-source
 
 You can get involved in a number of ways:
 
-### Embedded Development on Pico (Currently using Rust)
+### Embedded Development on Pico (currently using Rust)
 
 1. Design and maintain Pico and sensors dev kit bill of materials (BOM)
 2. Architect and design embedded software subsystems and APIs
@@ -93,7 +93,7 @@ Edge software repos and hardware:
  * [ESP32 WiFi Driver](https://github.com/Jim-Hodapp-Coaching/esp32-pico-wifi): our PoC code creating a Rust-based Pico WiFi driver
  that uses an [ESP32 companion board from Pimoroni](https://shop.pimoroni.com/products/pico-wireless-pack)
 
-### Cloud Backend (Currently using Elixir + Rust
+### Cloud Backend (currently using Elixir + Rust
 
 1. Architect and design cloud backend software subsystems and APIs
 2. Development of a real time cloud backend API for receiving pushed data from multiple Pico or virtual nodes in parallel
@@ -109,7 +109,7 @@ Ambi backend software repos:
  * [Ambi Mock Client](https://github.com/Jim-Hodapp-Coaching/ambi_mock_client): an increasingly comprehensive test double (mock)
  of an Edge hardware sensor target that sends simulated sensor data to an Ambi backend instance
 
-### Cloud Frontend (Currently in Phoenix LiveView + JavaScript)
+### Cloud Frontend (currently using Phoenix LiveView + JavaScript)
 
 1. Architect and design cloud frontend software subsystems and APIs
 2. Development of a frontend → backend API
