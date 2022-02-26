@@ -18,6 +18,26 @@ join the community conversation](mailto:jim@jimhodappcoaching.com).
 We welcome new members into the community and will provide a more formal way of joining coming soon. In the meantime, feel free to
 browse around the repositories, clone the code, see if you can get everything running, and even contribute bug fixes or new features.
 
+***
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li><a href="#weekly_meetings">Weekly Meetings</a></li>
+    <li><a href="#current_software_projects">Current Software Projects</a></li>
+    <li><a href="#project_goals">Project Goals</a></li>
+    <li><a href="#getting_involved">Getting Involved</a></li>
+    <li><a href="#learning_resources">Learning Resources</a></li>
+    <li><a href="#community_values_and_code_of_conduct">Community Values and Code of Conduct</a></li>
+    <li><a href="#software_engineer_coaching">Software Engineer Coaching</a></li>
+  </ol>
+</details>
+
+***
+
+<!-- WEEKLY MEETINGS -->
+
 ## Weekly Meetings
 
 We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accomdate more timezones from around the world.
@@ -27,7 +47,9 @@ You may find our meetings notes and current community focus for each project (Ed
  * [Edge Project meeting notes](https://github.com/Jim-Hodapp-Coaching/edge-rs/wiki/Community-Meeting-Notes)
 
 
-# Edge + Ambi Projects
+<!-- CURRENT SOFTWARE PROJECTS -->
+
+# Current Software Projects
 
 ## Overview
 The Edge / Ambi Projects currently exist to explore two main goals:
@@ -50,6 +72,8 @@ processes, morphs and gives meaning to the data collected by the Edge pieces of 
 [Browse the Ambi GitHub Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/1/views/1?layout=board) that
 has all current Ambi feature/bug work
 
+<!-- PROJECT GOALS -->
+
 ## Project Goals
 
 1. __Paragliding use-case:__ A primary application is sensing the environmental conditions in real-time around a paraglider, storing
@@ -68,6 +92,8 @@ involves writing overviews and guides for the Relational Technologist newsletter
 5. __Growth + Fun:__ Fun projects solving real-world problems for anyone to become a better software developer, all done in community
 with others from around the world. [Read more on why it's critically important to join an open source community to practice your software
 development skills](https://reltech.substack.com/p/the-importance-of-open-source-software?utm_source=url).
+
+<!-- GETTING INVOLVED -->
 
 ## Getting Involved
 
@@ -135,7 +161,9 @@ Ambi frontend software repos:
 If you’d like to join the project, please reach out to [Jim Hodapp](mailto:jim@jimhodappcoaching.com) and let him know
 that you're interested in practicing and contributing to the project.
 
-## Learning + Resources
+<!-- LEARNING RESOURCES -->
+
+## Learning Resources
 
 __Rust__
  * [Rust Book](https://doc.rust-lang.org/book/): Free, start here when learning Rust for the first time as well as for
@@ -155,7 +183,19 @@ __Elixir__
  * [Phoenix LiveView frontend](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html): frontend framework used by Ambi
  providing "real-time user experiences with server-rendered HTML."
 
-# What does Jim Hodapp Coaching have to do with this community?
+<!-- COMMUNITY VALUES AND CODE OF CONDUCT -->
+
+# Community Values and Code of Conduct
+
+Please make sure to review our [community's overarching set of values and the code of conduct](./CODE_OF_CONDUCT).
+
+__Note: all members of this community are expected to review, agree to, and sign the code of conduct before being invited into participating in the community.__
+
+***
+
+<!-- SOFTWARE ENGINEER COACHING -->
+
+# Software Engineer Coaching
 
 The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) which you can
 sign up for if you'd like to receive professional one-on-one guidance in becoming a master software engineer/developer.
