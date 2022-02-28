@@ -40,7 +40,7 @@ browse around the repositories, clone the code, see if you can get everything ru
 
 ## Weekly Meetings
 
-We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accomdate more timezones from around the world.
+We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accommodate more timezones from around the world.
 
 You may find our meetings notes and current community focus for each project (Edge + Ambi) here:
  * [Ambi Project meeting notes](https://github.com/Jim-Hodapp-Coaching/ambi/wiki/Community-Meeting-Notes)
@@ -197,15 +197,10 @@ __Note: all members of this community are expected to review, agree to, and sign
 
 # Software Engineer Coaching
 
-The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) which you can
-sign up for if you'd like to receive professional one-on-one guidance in becoming a master software engineer/developer.
-It's currently how the bills get paid allowing for this community to exist which includes covering living expenses for Jim Hodapp.
+The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) and is available to help you master all technical, communication, organizational and relational aspects of being a master software engineer. It's also how the bills get paid which allows for this community to exist which includes covering living expenses for Jim Hodapp.
 
-Even though the community exists under the coaching business umbrella, you do not need to participate in coaching if that's not what
-you're currently needing. Learning from and participating in this community exists as a compliment to Jim's coaching services, but you will
-certainly benefit from just starting with community participation. Feel free to jump in, ask questions and propose changes to any
-of the software that the community is working on. You'll get quality feedback on your pull requests which is already something very
-valuable in helping you become a better software engineer.
+Even though the community exists under the coaching business umbrella, you do not need to participate in coaching if that's not what you're currently needing. Learning from and participating in this community exists as a compliment to Jim's coaching services, but you will certainly benefit from just starting with community participation. Feel free to jump in, ask questions and propose changes to any
+of the software that the community is working on. You'll get quality feedback on your pull requests which is already something very valuable in helping you become a better software engineer.
 
 If you would like to learn more about professional software engineer coaching, please
 [read more about it here](https://reltech.substack.com/p/professional-engineering-coaching?utm_source=url) and [schedule a completely free
