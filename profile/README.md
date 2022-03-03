@@ -174,8 +174,9 @@ Ambi frontend software repos:
 5. Contribute to defining cloud frontend project features and requirements
 + many more...
 
-If you’d like to join the project, please reach out to [Jim Hodapp](mailto:jim@jimhodappcoaching.com) and let him know
-that you're interested in practicing and contributing to the project.
+If you’d like to join the project and contribute to development, please see the [Getting Involved](#getting-involved) section above for more info.
+
+***
 
 <!-- LEARNING RESOURCES -->
 
@@ -198,6 +199,8 @@ __Elixir__
  framework used by Ambi
  * [Phoenix LiveView frontend](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html): frontend framework used by Ambi
  providing "real-time user experiences with server-rendered HTML."
+
+***
 
 <!-- COMMUNITY VALUES AND CODE OF CONDUCT -->
 
