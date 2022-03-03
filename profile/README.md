@@ -4,6 +4,8 @@ Have you ever thought to yourself that you know you can become a better software
 someone with experience to provide you some help and guidance? Well that's exactly what this open source software community is for. We're
 an international group of software craftspeople who love building free software and helping others learn how to do this better.
 
+We call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep, but _you_ still need to. Put code to work intelligently so you can rest more and be fully human. :)
+
 Currently we:
 
 1. Build useful projects that solve real world problems with a current focus on ambient environment sensing applications like room
@@ -16,7 +18,7 @@ We hang out on a Slack instance called [Rust Never Sleeps](https://rustneverslee
 join the community conversation](mailto:jim@jimhodappcoaching.com).
 
 We welcome new members into the community and will provide a more formal way of joining coming soon. In the meantime, feel free to
-browse around the repositories, clone the code, see if you can get everything running, and even contribute bug fixes or new features.
+browse around the repositories, clone the existing source code, try to get everything running, and even contribute bug fixes or to contributing a new feature.
 
 ***
 
@@ -24,10 +26,10 @@ browse around the repositories, clone the code, see if you can get everything ru
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li><a href="#weekly_meetings">Weekly Meetings</a></li>
-    <li><a href="#current_software_projects">Current Software Projects</a></li>
-    <li><a href="#project_goals">Project Goals</a></li>
     <li><a href="#getting_involved">Getting Involved</a></li>
+    <li><a href="#software_projects">Software Projects</a></li>
+    <li><a href="#project_goals">Project Goals</a></li>
+    <li><a href="#software_development">Software Development</a></li>
     <li><a href="#learning_resources">Learning Resources</a></li>
     <li><a href="#community_values_and_code_of_conduct">Community Values and Code of Conduct</a></li>
     <li><a href="#software_engineer_coaching">Software Engineer Coaching</a></li>
@@ -36,20 +38,34 @@ browse around the repositories, clone the code, see if you can get everything ru
 
 ***
 
-<!-- WEEKLY MEETINGS -->
+<!-- GETTING INVOLVED -->
 
-## Weekly Meetings
+## Getting Involved
 
-We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accommodate more timezones from around the world.
+You can get involved in a number of ways:
 
-You may find our meetings notes and current community focus for each project (Edge + Ambi) here:
+### Join our Community Slack Discussion and Weekly Meetups
+
+We create intentional community, currently in two main areas that you are welcome to join:
+
+1. [Rust Never Sleeps Slack server](https://rustneversleepshq.slack.com/)
+   * Please [choose a time](https://calendly.com/jim-hodapp-coaching) to discuss with a community member in which we'll briefly get to know each other, talk about what you're looking for, and walk you through a brief set of questions that we have in place to help ensure a high quality and enjoyable community for everyone.
+
+2. Two weekly calls catered for different time zones:
+   * Europe/Africa/Asia - Thursdays at 13:00 (UTC-6)
+   * North/South America - Thursdays at 19:00 (UTC-6)
+
+In order to join our weekly calls we ask that everyone goes through an introduction conversation mentioned in #1 above.
+
+You may find our meeting notes and current bugs/feature development focus for each project (Edge + Ambi) here:
  * [Ambi Project meeting notes](https://github.com/Jim-Hodapp-Coaching/ambi/wiki/Community-Meeting-Notes)
  * [Edge Project meeting notes](https://github.com/Jim-Hodapp-Coaching/edge-rs/wiki/Community-Meeting-Notes)
 
+***
 
-<!-- CURRENT SOFTWARE PROJECTS -->
+<!-- SOFTWARE PROJECTS -->
 
-# Current Software Projects
+# Software Projects
 
 ## Overview
 The Edge / Ambi Projects currently exist to explore two main goals:
@@ -93,11 +109,11 @@ involves writing overviews and guides for the Relational Technologist newsletter
 with others from around the world. [Read more on why it's critically important to join an open source community to practice your software
 development skills](https://reltech.substack.com/p/the-importance-of-open-source-software?utm_source=url).
 
-<!-- GETTING INVOLVED -->
+***
 
-## Getting Involved
+<!-- SOFTWARE DEVELOPMENT -->
 
-You can get involved in a number of ways:
+## Software Development
 
 ### Embedded Development on Pico (currently using Rust)
 
