@@ -26,13 +26,13 @@ browse around the repositories, clone the existing source code, try to get every
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li><a href="#getting_involved">Getting Involved</a></li>
-    <li><a href="#software_projects">Software Projects</a></li>
-    <li><a href="#project_goals">Project Goals</a></li>
-    <li><a href="#software_development">Software Development</a></li>
-    <li><a href="#learning_resources">Learning Resources</a></li>
-    <li><a href="#community_values_and_code_of_conduct">Community Values and Code of Conduct</a></li>
-    <li><a href="#software_engineer_coaching">Software Engineer Coaching</a></li>
+    <li><a href="#getting-involved">Getting Involved</a></li>
+    <li><a href="#software-projects">Software Projects</a></li>
+    <li><a href="#project-goals">Project Goals</a></li>
+    <li><a href="#software-development">Software Development</a></li>
+    <li><a href="#learning-resources">Learning Resources</a></li>
+    <li><a href="#community-values-and-code-of-conduct">Community Values and Code of Conduct</a></li>
+    <li><a href="#software-engineer-coaching">Software Engineer Coaching</a></li>
   </ol>
 </details>
 
