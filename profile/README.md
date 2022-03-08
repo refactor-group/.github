@@ -32,6 +32,7 @@ browse around the repositories, clone the existing source code, try to get every
     <li><a href="#software-development">Software Development</a></li>
     <li><a href="#learning-resources">Learning Resources</a></li>
     <li><a href="#community-values-and-code-of-conduct">Community Values and Code of Conduct</a></li>
+    <li><a href="#faq">FAQ</a></li>
     <li><a href="#software-engineer-coaching">Software Engineer Coaching</a></li>
   </ol>
 </details>
@@ -209,6 +210,14 @@ __Elixir__
 Please make sure to review our [community's overarching set of values and the code of conduct](./CODE_OF_CONDUCT.md).
 
 __Note: all members of this community are expected to review, agree to, and sign the code of conduct before being invited into participating in the community.__
+
+***
+
+<!-- FAQ -->
+
+# FAQ
+
+Coming soon
 
 ***
 
