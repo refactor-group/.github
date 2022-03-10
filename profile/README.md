@@ -4,6 +4,8 @@ Have you ever thought to yourself that you know you can become a better software
 someone with experience to provide you some help and guidance? Well that's exactly what this open source software community is for. We're
 an international group of software craftspeople who love building free software and helping others learn how to do this better.
 
+We call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep, but _you_ still need to. Put code to work intelligently so you can rest more and be fully human. :)
+
 Currently we:
 
 1. Build useful projects that solve real world problems with a current focus on ambient environment sensing applications like room
@@ -16,7 +18,7 @@ We hang out on a Slack instance called [Rust Never Sleeps](https://rustneverslee
 join the community conversation](mailto:jim@jimhodappcoaching.com).
 
 We welcome new members into the community and will provide a more formal way of joining coming soon. In the meantime, feel free to
-browse around the repositories, clone the code, see if you can get everything running, and even contribute bug fixes or new features.
+browse around the repositories, clone the existing source code, try to get everything running, and even contribute bug fixes or to contributing a new feature.
 
 ***
 
@@ -24,31 +26,48 @@ browse around the repositories, clone the code, see if you can get everything ru
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li><a href="#weekly_meetings">Weekly Meetings</a></li>
-    <li><a href="#current_software_projects">Current Software Projects</a></li>
-    <li><a href="#project_goals">Project Goals</a></li>
-    <li><a href="#getting_involved">Getting Involved</a></li>
-    <li><a href="#learning_resources">Learning Resources</a></li>
-    <li><a href="#community_values_and_code_of_conduct">Community Values and Code of Conduct</a></li>
-    <li><a href="#software_engineer_coaching">Software Engineer Coaching</a></li>
+    <li><a href="#getting-involved">Getting Involved</a></li>
+    <li><a href="#software-projects">Software Projects</a></li>
+    <li><a href="#project-goals">Project Goals</a></li>
+    <li><a href="#software-development">Software Development</a></li>
+    <li><a href="#learning-resources">Learning Resources</a></li>
+    <li><a href="#community-values-and-code-of-conduct">Community Values and Code of Conduct</a></li>
+    <li><a href="#faq">FAQ</a></li>
+    <li><a href="#software-engineer-coaching">Software Engineer Coaching</a></li>
   </ol>
 </details>
 
 ***
 
-<!-- WEEKLY MEETINGS -->
+<!-- GETTING INVOLVED -->
 
-## Weekly Meetings
+## Getting Involved
+
+You can get involved in a number of ways:
+
+### Join our Community Slack Discussion and Weekly Meetups
+
+We create intentional community, currently in two main areas that you are welcome to join:
+
+1. [Rust Never Sleeps Slack server](https://rustneversleepshq.slack.com/)
+   * Please [choose a time](https://calendly.com/jim-hodapp-coaching) to discuss with a community member in which we'll briefly get to know each other, talk about what you're looking for, and walk you through a brief set of questions that we have in place to help ensure a high quality and enjoyable community for everyone.
+
+2. Two weekly calls catered for different time zones:
+   * Europe/Africa/Asia - Thursdays at 13:00 (UTC-6)
+   * North/South America - Thursdays at 19:00 (UTC-6)
 
 We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accommodate more timezones from around the world.
 
 You may find our meetings notes and current community focus for each current software project (Edge + Ambi) here:
  * [Community meeting notes and current focus](./profile/meeting_notes.md)
 
+In order to join our weekly calls we ask that everyone goes through an introduction conversation mentioned in #1 above.
 
-<!-- CURRENT SOFTWARE PROJECTS -->
+***
 
-# Current Software Projects
+<!-- SOFTWARE PROJECTS -->
+
+# Software Projects
 
 ## Overview
 The Edge / Ambi Projects currently exist to explore two main goals:
@@ -92,11 +111,11 @@ involves writing overviews and guides for the Relational Technologist newsletter
 with others from around the world. [Read more on why it's critically important to join an open source community to practice your software
 development skills](https://reltech.substack.com/p/the-importance-of-open-source-software?utm_source=url).
 
-<!-- GETTING INVOLVED -->
+***
 
-## Getting Involved
+<!-- SOFTWARE DEVELOPMENT -->
 
-You can get involved in a number of ways:
+## Software Development
 
 ### Embedded Development on Pico (currently using Rust)
 
@@ -157,8 +176,9 @@ Ambi frontend software repos:
 5. Contribute to defining cloud frontend project features and requirements
 + many more...
 
-If you’d like to join the project, please reach out to [Jim Hodapp](mailto:jim@jimhodappcoaching.com) and let him know
-that you're interested in practicing and contributing to the project.
+If you’d like to join the project and contribute to development, please see the [Getting Involved](#getting-involved) section above for more info.
+
+***
 
 <!-- LEARNING RESOURCES -->
 
@@ -182,6 +202,8 @@ __Elixir__
  * [Phoenix LiveView frontend](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html): frontend framework used by Ambi
  providing "real-time user experiences with server-rendered HTML."
 
+***
+
 <!-- COMMUNITY VALUES AND CODE OF CONDUCT -->
 
 # Community Values and Code of Conduct
@@ -192,19 +214,22 @@ __Note: all members of this community are expected to review, agree to, and sign
 
 ***
 
+<!-- FAQ -->
+
+# FAQ
+
+Coming soon
+
+***
+
 <!-- SOFTWARE ENGINEER COACHING -->
 
 # Software Engineer Coaching
 
-The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) which you can
-sign up for if you'd like to receive professional one-on-one guidance in becoming a master software engineer/developer.
-It's currently how the bills get paid allowing for this community to exist which includes covering living expenses for Jim Hodapp.
+The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) and is available to help you master all technical, communication, organizational and relational aspects of being a master software engineer. It's also how the bills get paid which allows for this community to exist which includes covering living expenses for Jim Hodapp.
 
-Even though the community exists under the coaching business umbrella, you do not need to participate in coaching if that's not what
-you're currently needing. Learning from and participating in this community exists as a compliment to Jim's coaching services, but you will
-certainly benefit from just starting with community participation. Feel free to jump in, ask questions and propose changes to any
-of the software that the community is working on. You'll get quality feedback on your pull requests which is already something very
-valuable in helping you become a better software engineer.
+Even though the community exists under the coaching business umbrella, you do not need to participate in coaching if that's not what you're currently needing. Learning from and participating in this community exists as a compliment to Jim's coaching services, but you will certainly benefit from just starting with community participation. Feel free to jump in, ask questions and propose changes to any
+of the software that the community is working on. You'll get quality feedback on your pull requests which is already something very valuable in helping you become a better software engineer.
 
 If you would like to learn more about professional software engineer coaching, please
 [read more about it here](https://reltech.substack.com/p/professional-engineering-coaching?utm_source=url) and [schedule a completely free
