@@ -208,7 +208,7 @@ __Elixir__
 
 # Community Values and Code of Conduct
 
-Please make sure to review our [community's overarching set of values and the code of conduct](./profile/CODE_OF_CONDUCT).
+Please make sure to review our [community's overarching set of values and the code of conduct](./profile/CODE_OF_CONDUCT.md).
 
 __Note: all members of this community are expected to review, agree to, and sign the code of conduct before being invited into participating in the community.__
 
