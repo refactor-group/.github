@@ -59,7 +59,7 @@ We create intentional community, currently in two main areas that you are welcom
 We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accommodate more timezones from around the world.
 
 You may find our meetings notes and current community focus for each current software project (Edge + Ambi) here:
- * [Community meeting notes and current focus](./meeting_notes.md)
+ * [Community meeting notes and current focus](./profile/meeting_notes.md)
 
 In order to join our weekly calls we ask that everyone goes through an introduction conversation mentioned in #1 above.
 
@@ -208,7 +208,7 @@ __Elixir__
 
 # Community Values and Code of Conduct
 
-Please make sure to review our [community's overarching set of values and the code of conduct](./CODE_OF_CONDUCT.md).
+Please make sure to review our [community's overarching set of values and the code of conduct](./profile/CODE_OF_CONDUCT.md).
 
 __Note: all members of this community are expected to review, agree to, and sign the code of conduct before being invited into participating in the community.__
 
