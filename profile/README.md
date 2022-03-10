@@ -56,11 +56,12 @@ We create intentional community, currently in two main areas that you are welcom
    * Europe/Africa/Asia - Thursdays at 13:00 (UTC-6)
    * North/South America - Thursdays at 19:00 (UTC-6)
 
-In order to join our weekly calls we ask that everyone goes through an introduction conversation mentioned in #1 above.
+We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accommodate more timezones from around the world.
 
-You may find our meeting notes and current bugs/feature development focus for each project (Edge + Ambi) here:
- * [Ambi Project meeting notes](https://github.com/Jim-Hodapp-Coaching/ambi/wiki/Community-Meeting-Notes)
- * [Edge Project meeting notes](https://github.com/Jim-Hodapp-Coaching/edge-rs/wiki/Community-Meeting-Notes)
+You may find our meetings notes and current community focus for each current software project (Edge + Ambi) here:
+ * [Community meeting notes and current focus](./meeting_notes.md)
+
+In order to join our weekly calls we ask that everyone goes through an introduction conversation mentioned in #1 above.
 
 ***
 
