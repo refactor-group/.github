@@ -220,7 +220,9 @@ __Note: all members of this community are expected to review, agree to, and sign
 
 # FAQ
 
-Coming soon
+1. How do I become a member of the Rust Never Sleeps community?
+
+To join, [please complete this very short registration](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/).
 
 ***
 
