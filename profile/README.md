@@ -12,13 +12,15 @@ Currently we:
 air conditions and visualizing highly localized paragliding climate conditions. The focus will expand over time to other applications
 like specific ways to help solve climate change or truly better many lives in specific ways.
 2. Are a place to learn and grow your comprehensive software development skillset with others who have all levels of experience (just getting started
-to multiple decades of software building experience) from around the world
+to multiple decades of software building experience) from around the world. Learn how to build and maintain professional software over a complete lifecycle.
+3. Provide opportunities for you to gain experience through practicing software development alongside a diverse set of engineers.
 
-We hang out on a Slack instance called [Rust Never Sleeps](https://rustneversleepshq.slack.com/). [Please contact us if you'd like to
-join the community conversation](mailto:jim@jimhodappcoaching.com).
+We hang out on a Slack instance called [Rust Never Sleeps](https://rustneversleepshq.slack.com/).
 
 We welcome new members into the community and will provide a more formal way of joining coming soon. In the meantime, feel free to
 browse around the repositories, clone the existing source code, try to get everything running, and even contribute bug fixes or to contributing a new feature.
+
+__Join the Rust Never Sleeps Community:__ If you'd like to join a diverse group of software developers from around the world building really exciting open source software in Rust and Elixir, [please complete this very short registration](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/).
 
 ***
 
