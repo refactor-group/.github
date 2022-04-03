@@ -51,8 +51,8 @@ You can get involved in a number of ways:
 
 We create intentional community, currently in two main areas that you are welcome to join:
 
-1. [Rust Never Sleeps Slack server](https://rustneversleepshq.slack.com/)
-   * Please [choose a time](https://calendly.com/jim-hodapp-coaching) to discuss with a community member in which we'll briefly get to know each other, talk about what you're looking for, and walk you through a brief set of questions that we have in place to help ensure a high quality and enjoyable community for everyone.
+1. [Rust Never Sleeps Slack discussion](https://rustneversleepshq.slack.com/)
+   * We care deeply about creating diverse, supportive community. If you'd like to join our Slack community and GitHub organization, [please take a moment to fill out this brief set of questions to help us get to know you a bit better](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/)
 
 2. Two weekly calls catered for different time zones:
    * Europe/Africa/Asia - Thursdays at 13:00 (UTC-6)
