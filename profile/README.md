@@ -6,6 +6,8 @@ an international group of software craftspeople who love building free software 
 
 We call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep, but _you_ still need to. Put code to work intelligently so you can rest more and be fully human. :)
 
+![rust_never_sleeps](https://user-images.githubusercontent.com/3219120/176586737-25719582-1b07-4552-a1bd-1e1c6a526a9d.png)
+
 Currently we:
 
 1. Build useful projects that solve real world problems with a current focus on ambient environment sensing applications like room
