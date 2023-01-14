@@ -85,14 +85,17 @@ The Edge / Ambi Projects currently exist to explore two main goals:
 The __Edge Project__ refers to the embedded/IoT aspects of the system including the hardware sensors, embedded board (Raspberry Pi Pico)
 and embedded Rust source code.
 
-[Browse the Edge GitHub Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/3/views/1) that has all current
-Edge feature/bug work
+👀 [Browse the Edge Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/3/views/1) that has all current feature/bug work
+
+A subproject of Edge, the __ESP32-WROOM-RP project__ is our effort to write an embedded Rust crate for all RP2040 series boards that lack WiFi but can gain WiFi ability via ESP32-WROOM-* boards
+
+👀 [Browse the ESP32-WROOM-RP Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/5) that has all current project feature/bug work
 
 The __Ambi Project__ refers to the web backend and frontend components of this system acting as a local or cloud-hosted system that
 processes, morphs and gives meaning to the data collected by the Edge pieces of the system.
 
-[Browse the Ambi GitHub Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/1/views/1?layout=board) that
-has all current Ambi feature/bug work
+👀 [Browse the Ambi Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/1/views/1?layout=board) that
+has all current feature/bug work
 
 <!-- PROJECT GOALS -->
 
