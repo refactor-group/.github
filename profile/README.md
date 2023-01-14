@@ -57,7 +57,7 @@ We create intentional community, currently in two main areas that you are welcom
    * We care deeply about creating diverse, supportive community. If you'd like to join our Slack community and GitHub organization, [please take a moment to fill out this brief set of questions to help us get to know you a bit better](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/)
 
 2. Two weekly calls catered for different time zones:
-   * Europe/Africa/Asia - Thursdays at 13:00 (UTC-6)
+   * Europe/Africa/Asia - Thursdays at 13:00 (UTC-6) --> currently not meeting, will resume with enough interest
    * North/South America - Thursdays at 19:00 (UTC-6)
 
 We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accommodate more timezones from around the world.
@@ -108,7 +108,7 @@ includes opportunities to design and contribute to embedded systems and cloud-ba
 opportunities to have your name attached to a real project for your career experience portfolio, useful for future job interviews and
 job roles.
 3. __Raspberry Pi Pico:__ Utilize and contribute back to the very accessible Raspberry Pi Pico software ecosystem specifically for Rust.
-4. __Rust/Elixir:__ Utilize Rust for all embedded development and a combination of Rust/Elixir for cloud backend implementations.
+4. __Rust/Elixir/Go:__ Utilize Rust for all embedded development and a combination of Rust/Elixir/Go for cloud backend implementations.
 Contributing publications: Communicating about the project and things that we’re learning about and building are important to do. This
 involves writing overviews and guides for the Relational Technologist newsletter and creating mature project documentation.
 5. __Growth + Fun:__ Fun projects solving real-world problems for anyone to become a better software developer, all done in community
@@ -127,7 +127,7 @@ development skills](https://reltech.substack.com/p/the-importance-of-open-source
 2. Architect and design embedded software subsystems and APIs
 3. Development of the main embedded Edge application in Rust (edge-rs)
 4. Development of a device → cloud backend communications subsystem and API (e.g. RESTful + JSON)
-5. ESP32 WiFi driver development in Rust for the Pimoroni Wireless Pack for Pico
+5. ESP32 WiFi driver development in Rust for the Adafruit Airlift/Pimoroni Wireless Pack for Pico
 6. Other sensor driver development in Rust (TBD)
 7. Architect and implement a CI/CD strategy
 8. Architect and implement an automated testing strategy
@@ -141,7 +141,7 @@ Edge software repos and hardware:
  * [ESP32 WiFi Driver](https://github.com/Jim-Hodapp-Coaching/esp32-pico-wifi): our PoC code creating a Rust-based Pico WiFi driver
  that uses an [ESP32 companion board from Pimoroni](https://shop.pimoroni.com/products/pico-wireless-pack)
 
-### Cloud Backend (currently using Elixir + Rust)
+### Cloud Backend (currently using Rust, Elixir and Go)
 
 1. Architect and design cloud backend software subsystems and APIs
 2. Development of a real time cloud backend API for receiving pushed data from multiple Pico or virtual nodes in parallel
@@ -153,11 +153,13 @@ Edge software repos and hardware:
 8. Writing mature project documentation (README and other)
 
 Ambi backend software repos:
- * [Ambi](https://github.com/Jim-Hodapp-Coaching/ambi): our main web application backend written in Elixir (and soon, some Rust)
+ * [Ambi (Rust impl)](https://github.com/Jim-Hodapp-Coaching/ambi-rs): our main web application backend written in Rust + Rocket
+ * [Ambi (Go impl)](https://github.com/naconnors/ambi-go/): our main web application backend written in Go + Fiber
+ * [Ambi (Elixir impl)](https://github.com/Jim-Hodapp-Coaching/ambi): our main web application backend written in Elixir + Phoenix
  * [Ambi Mock Client](https://github.com/Jim-Hodapp-Coaching/ambi_mock_client): an increasingly comprehensive test double (mock)
  of an Edge hardware sensor target that sends simulated sensor data to an Ambi backend instance
 
-### Cloud Frontend (currently using Phoenix LiveView + JavaScript)
+### Cloud Frontend (currently using HTMX + JavaScript (Rust and Go impl), Phoenix LiveView + JavaScript (Elixir impl))
 
 1. Architect and design cloud frontend software subsystems and APIs
 2. Development of a frontend → backend API
@@ -169,11 +171,11 @@ Ambi backend software repos:
 8. Writing mature project documentation (README and other)
 
 Ambi frontend software repos:
- * [Ambi](https://github.com/Jim-Hodapp-Coaching/ambi): our main web application frontend written in Elixir + JavaScript
+ * See the backend links above, all FEs are part of the same repos
 
 ### Non-technical ways of contributing & software engineer practice
 
-1. Facilitate community conversation in the Rust Never Sleeps Slack server
+1. Facilitate community conversation in the Rust Never Sleeps Slack instance
 2. Facilitate regular project meetings keeping project members in sync and clear on next steps
 3. Contribute to defining embedded project features and requirements
 4. Contribute to defining cloud backend project features and requirements
