@@ -111,7 +111,7 @@ includes opportunities to design and contribute to embedded systems and cloud-ba
 opportunities to have your name attached to a real project for your career experience portfolio, useful for future job interviews and
 job roles.
 3. __Raspberry Pi Pico:__ Utilize and contribute back to the very accessible Raspberry Pi Pico software ecosystem specifically for Rust.
-4. __Rust/Elixir/Go:__ Utilize Rust for all embedded development and a combination of Rust/Elixir/Go for cloud backend implementations.
+4. __Rust:__ Utilize Rust for all embedded development and cloud backend implementations.
 Contributing publications: Communicating about the project and things that we’re learning about and building are important to do. This
 involves writing overviews and guides for the Relational Technologist newsletter and creating mature project documentation.
 5. __Growth + Fun:__ Fun projects solving real-world problems for anyone to become a better software developer, all done in community
@@ -144,7 +144,7 @@ Edge software repos and hardware:
  * [ESP32 WiFi Driver](https://github.com/Jim-Hodapp-Coaching/esp32-pico-wifi): our PoC code creating a Rust-based Pico WiFi driver
  that uses an [ESP32 companion board from Pimoroni](https://shop.pimoroni.com/products/pico-wireless-pack)
 
-### Cloud Backend (currently using Rust, Elixir and Go)
+### Cloud Backend (currently using Rust)
 
 1. Architect and design cloud backend software subsystems and APIs
 2. Development of a real time cloud backend API for receiving pushed data from multiple Pico or virtual nodes in parallel
@@ -162,7 +162,7 @@ Ambi backend software repos:
  * [Ambi Mock Client](https://github.com/Jim-Hodapp-Coaching/ambi_mock_client): an increasingly comprehensive test double (mock)
  of an Edge hardware sensor target that sends simulated sensor data to an Ambi backend instance
 
-### Cloud Frontend (currently using HTMX + JavaScript (Rust and Go impl), Phoenix LiveView + JavaScript (Elixir impl))
+### Cloud Frontend (currently using Next.js + Typescript)
 
 1. Architect and design cloud frontend software subsystems and APIs
 2. Development of a frontend → backend API
