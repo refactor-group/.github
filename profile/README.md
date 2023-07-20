@@ -49,21 +49,20 @@ __Join the Rust Never Sleeps Community:__ If you'd like to join a diverse group 
 
 You can get involved in a number of ways:
 
-### Join our Community Slack Discussion and Weekly Meetups
+### Join our Community Slack Discussion and Biweekly Meetups
 
 We create intentional community, currently in two main areas that you are welcome to join:
 
 1. [Rust Never Sleeps Slack discussion](https://rustneversleepshq.slack.com/)
    * We care deeply about creating diverse, supportive community. If you'd like to join our Slack community and GitHub organization, [please take a moment to fill out this brief set of questions to help us get to know you a bit better](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/)
 
-2. Two weekly calls catered for different time zones:
-   * Europe/Africa/Asia - Thursdays at 13:00 (UTC-6) --> currently not meeting, will resume with enough interest
-   * North/South America - Thursdays at 19:00 (UTC-6)
+2. A biweekly call:
+   * North/South America - Every other Thursday at 19:00 (UTC-6)
 
-We currently meet every Thursday at 7 PM central US time. Note that we're considering changing this time or adding another meeting to accommodate more timezones from around the world.
 
 You may find our meetings notes and current community focus for each current software project (Edge + Ambi) here:
  * [Community meeting notes and current focus](./profile/meeting_notes.md)
+ * [AI Traffic Cop/NLP-configured tcpdump clone](https://docs.google.com/document/d/1Owcr4vWYTABrhFO0yHQ2cs8C7y2fE69HWBjJZ4STdvY/edit)
 
 In order to join our weekly calls we ask that everyone goes through an introduction conversation mentioned in #1 above.
 
