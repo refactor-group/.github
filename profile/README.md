@@ -10,12 +10,10 @@ We call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep, but _y
 
 Currently we:
 
-1. Build useful projects that solve real world problems with a current focus on ambient environment sensing applications like room
-air conditions and visualizing highly localized paragliding climate conditions. The focus will expand over time to other applications
-like specific ways to help solve climate change or truly better many lives in specific ways.
+1. Build full scale and useful projects that solve real world problems
 2. Are a place to learn and grow your comprehensive software development skillset with others who have all levels of experience (just getting started
 to multiple decades of software building experience) from around the world. Learn how to build and maintain professional software over a complete lifecycle.
-3. Provide opportunities for you to gain experience through practicing software development alongside a diverse set of engineers.
+3. Provide opportunities for you to gain experience through practicing software development alongside a diverse set of beginning and experienced Rust developers.
 
 We hang out on a Slack instance called [Rust Never Sleeps](https://rustneversleepshq.slack.com/).
 
@@ -61,10 +59,9 @@ We create intentional community, currently in two main areas that you are welcom
 
 
 You may find our meetings notes and current community focus for each current software project (Edge + Ambi) here:
- * [Community meeting notes and current focus](./profile/meeting_notes.md)
- * [AI Traffic Cop/NLP-configured tcpdump clone](https://docs.google.com/document/d/1Owcr4vWYTABrhFO0yHQ2cs8C7y2fE69HWBjJZ4STdvY/edit)
+ * [Rust / Next.js based software engineering coaching platform](https://github.com/Jim-Hodapp-Coaching/refactor-platform-fe#intro)
 
-In order to join our weekly calls we ask that everyone goes through an introduction conversation mentioned in #1 above.
+In order to join our weekly calls we ask that you [fill out a simple form](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/) and agree to abide by our community code of conduct.
 
 ***
 
@@ -73,6 +70,13 @@ In order to join our weekly calls we ask that everyone goes through an introduct
 # Software Projects
 
 ## Overview
+
+### Active Projects
+
+[Software Engineering Coaching Platform](https://github.com/Jim-Hodapp-Coaching/refactor-platform-fe#intro)
+
+### Inactive Projects
+
 The Edge / Ambi Projects currently exist to explore two main goals:
 
 1. Creating a simple, highly performant IoT framework to collect and control hardware/software agents at the edge that:
@@ -200,15 +204,6 @@ __Rust__
  * [Rust in Action](https://www.manning.com/books/rust-in-action): A great intro book for new Rust developers (assumes zero
  prior language experience)
  * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans): When you want to go much deeper in Rust
-
-__Elixir__
- * [Elixir Getting Started Guide](https://elixir-lang.org/getting-started/introduction.html): Free, start here in learning Elixir
- * [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition): A great intro book for new Elixir
- developers (assumes zero prior language experience)
- * [Phoenix Web Framework](https://hexdocs.pm/phoenix/overview.html): Free, hands-on guides covering the Elixir-based web
- framework used by Ambi
- * [Phoenix LiveView frontend](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html): frontend framework used by Ambi
- providing "real-time user experiences with server-rendered HTML."
 
 ***
 
