@@ -10,17 +10,18 @@ We call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep, but _y
 
 Currently we:
 
-1. Build full scale and useful projects that solve real world problems
+1. Build useful and substantial projects that solve real world problems
 2. Are a place to learn and grow your comprehensive software development skillset with others who have all levels of experience (just getting started
 to multiple decades of software building experience) from around the world. Learn how to build and maintain professional software over a complete lifecycle.
 3. Provide opportunities for you to gain experience through practicing software development alongside a diverse set of beginning and experienced Rust developers.
 
-We hang out on a Slack instance called [Rust Never Sleeps](https://rustneversleepshq.slack.com/).
+We hang out on a Slack community called [Rust Never Sleeps](https://rustneversleepshq.slack.com/).
 
-We welcome new members into the community and will provide a more formal way of joining coming soon. In the meantime, feel free to
-browse around the repositories, clone the existing source code, try to get everything running, and even contribute bug fixes or to contributing a new feature.
+We welcome new members into the community! Please feel free to browse around the repositories, clone the existing source code, try to get everything running,
+and even contribute bug fixes or to contributing a new feature.
 
-__Join the Rust Never Sleeps Community:__ If you'd like to join a diverse group of software developers from around the world building really exciting open source software in Rust and Elixir, [please complete this very short registration](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/).
+__Join the Rust Never Sleeps Community (Slack & GitHub Projects):__ If you'd like to join a diverse group of software developers from around the world building really
+exciting open source software primarily using Rust, [please complete this very short intro form](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/).
 
 ***
 
@@ -30,7 +31,6 @@ __Join the Rust Never Sleeps Community:__ If you'd like to join a diverse group 
   <ol>
     <li><a href="#getting-involved">Getting Involved</a></li>
     <li><a href="#software-projects">Software Projects</a></li>
-    <li><a href="#project-goals">Project Goals</a></li>
     <li><a href="#software-development">Software Development</a></li>
     <li><a href="#learning-resources">Learning Resources</a></li>
     <li><a href="#community-values-and-code-of-conduct">Community Values and Code of Conduct</a></li>
@@ -55,13 +55,11 @@ We create intentional community, currently in two main areas that you are welcom
    * We care deeply about creating diverse, supportive community. If you'd like to join our Slack community and GitHub organization, [please take a moment to fill out this brief set of questions to help us get to know you a bit better](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/)
 
 2. A biweekly call:
-   * North/South America - Every other Thursday at 19:00 (UTC-6)
+   * ~~North/South America - Every other Thursday at 19:00 (UTC-6)~~ <-- currently on hiatus
 
 
-You may find our meetings notes and current community focus for each current software project (Edge + Ambi) here:
+You may find our meetings notes and current community focus for each current software project here:
  * [Rust / Next.js based software engineering coaching platform](https://github.com/Jim-Hodapp-Coaching/refactor-platform-fe#intro)
-
-In order to join our weekly calls we ask that you [fill out a simple form](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/) and agree to abide by our community code of conduct.
 
 ***
 
@@ -73,17 +71,15 @@ In order to join our weekly calls we ask that you [fill out a simple form](https
 
 ### Active Projects
 
-[Software Engineering Coaching Platform](https://github.com/Jim-Hodapp-Coaching/refactor-platform-fe#intro)
+**Software Engineering Coaching & Mentorship Platform:**
+
+Seeking to build a platform designed specifically for software engineering coaches and tech industry leaders to coach and mentor engineers to specific growth outcomes.
+
+1. [Next.js + TailwindCSS frontend](https://github.com/Jim-Hodapp-Coaching/refactor-platform-fe)
+2. [Rust backend](https://github.com/Jim-Hodapp-Coaching/refactor-platform-rs)
+
 
 ### Inactive Projects
-
-The Edge / Ambi Projects currently exist to explore two main goals:
-
-1. Creating a simple, highly performant IoT framework to collect and control hardware/software agents at the edge that:
-    * Are almost always connected to the internet
-    * Are intermittently connected to the internet
-2. The use of the exciting new highly performant, safe and scalable Rust lang both for embedded and cloud implementations as well
-  as use of Elixir for cloud implementations
 
 The __Edge Project__ refers to the embedded/IoT aspects of the system including the hardware sensors, embedded board (Raspberry Pi Pico)
 and embedded Rust source code.
@@ -100,93 +96,20 @@ processes, morphs and gives meaning to the data collected by the Edge pieces of 
 👀 [Browse the Ambi Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/1/views/1?layout=board) that
 has all current feature/bug work
 
-<!-- PROJECT GOALS -->
 
-## Project Goals
+## Edge / Ambi Projects explore two main goals:
 
-1. __Paragliding use-case:__ A primary application is sensing the environmental conditions in real-time around a paraglider, storing
-the data locally and later pushing the data to an Edge cloud backend for further processing/visualization.
-Ambient room conditions use-case: Another primary application is sensing the ambient room conditions, continually pushing the data
-to an Edge cloud backend for further processing/visualization.
-2. __A meaningful OSS project:__ Create a meaningful open source software project and community for coaching clients, friends and
-trusted acquaintances to practice and build up skills for fun and future career success from a group with diverse experience. This
-includes opportunities to design and contribute to embedded systems and cloud-based backends and frontends. It also provides multiple
-opportunities to have your name attached to a real project for your career experience portfolio, useful for future job interviews and
-job roles.
-3. __Raspberry Pi Pico:__ Utilize and contribute back to the very accessible Raspberry Pi Pico software ecosystem specifically for Rust.
-4. __Rust:__ Utilize Rust for all embedded development and cloud backend implementations.
-Contributing publications: Communicating about the project and things that we’re learning about and building are important to do. This
-involves writing overviews and guides for the Relational Technologist newsletter and creating mature project documentation.
-5. __Growth + Fun:__ Fun projects solving real-world problems for anyone to become a better software developer, all done in community
-with others from around the world. [Read more on why it's critically important to join an open source community to practice your software
-development skills](https://reltech.substack.com/p/the-importance-of-open-source-software?utm_source=url).
+1. Creating a simple, highly performant IoT framework to collect and control hardware/software agents at the edge that:
+    * Are almost always connected to the internet
+    * Are intermittently connected to the internet
+2. The use of the exciting new highly performant, safe and scalable Rust lang both for embedded and cloud implementations as well
+  as use of Elixir for cloud implementations
 
 ***
 
 <!-- SOFTWARE DEVELOPMENT -->
 
 ## Software Development
-
-### Embedded Development on Pico (currently using Rust)
-
-1. Design and maintain Pico and sensors dev kit bill of materials (BOM)
-2. Architect and design embedded software subsystems and APIs
-3. Development of the main embedded Edge application in Rust (edge-rs)
-4. Development of a device → cloud backend communications subsystem and API (e.g. RESTful + JSON)
-5. ESP32 WiFi driver development in Rust for the Adafruit Airlift/Pimoroni Wireless Pack for Pico
-6. Other sensor driver development in Rust (TBD)
-7. Architect and implement a CI/CD strategy
-8. Architect and implement an automated testing strategy
-9. Design and maintain Pico and sensor wiring guide documentation
-10. Writing overviews and guides of what we’re learning/building for the [Relational Technologist newsletter](https://reltech.substack.com/)
-11. Writing mature project documentation (README and other)
-
-Edge software repos and hardware:
- * [Edge](https://github.com/Jim-Hodapp-Coaching/edge-rs): our main embedded/IoT application written in 100% Rust targetting
- [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
- * [ESP32 WiFi Driver](https://github.com/Jim-Hodapp-Coaching/esp32-pico-wifi): our PoC code creating a Rust-based Pico WiFi driver
- that uses an [ESP32 companion board from Pimoroni](https://shop.pimoroni.com/products/pico-wireless-pack)
-
-### Cloud Backend (currently using Rust)
-
-1. Architect and design cloud backend software subsystems and APIs
-2. Development of a real time cloud backend API for receiving pushed data from multiple Pico or virtual nodes in parallel
-3. Development of an asynchronous cloud backend API for receiving non-real time data from a Pico node
-4. Development of data processing cloud backend subsystems
-5. Architect and implement a CI/CD strategy
-6. Architect and implement an automated testing strategy
-7. Writing overviews and guides of what we’re learning/building for the Relational Technologist newsletter
-8. Writing mature project documentation (README and other)
-
-Ambi backend software repos:
- * [Ambi (Rust impl)](https://github.com/Jim-Hodapp-Coaching/ambi-rs): our main web application backend written in Rust + Rocket
- * [Ambi (Go impl)](https://github.com/naconnors/ambi-go/): our main web application backend written in Go + Fiber
- * [Ambi (Elixir impl)](https://github.com/Jim-Hodapp-Coaching/ambi): our main web application backend written in Elixir + Phoenix
- * [Ambi Mock Client](https://github.com/Jim-Hodapp-Coaching/ambi_mock_client): an increasingly comprehensive test double (mock)
- of an Edge hardware sensor target that sends simulated sensor data to an Ambi backend instance
-
-### Cloud Frontend (currently using Next.js + Typescript)
-
-1. Architect and design cloud frontend software subsystems and APIs
-2. Development of a frontend → backend API
-3. Development of an asynchronous cloud backend API for receiving non-real time data from a Pico node
-4. Development of data processing cloud backend subsystems
-5. Architect and implement a CI/CD strategy
-6. Architect and implement an automated testing strategy
-7. Writing overviews and guides of what we’re learning/building for the Relational Technologist newsletter
-8. Writing mature project documentation (README and other)
-
-Ambi frontend software repos:
- * See the backend links above, all FEs are part of the same repos
-
-### Non-technical ways of contributing & software engineer practice
-
-1. Facilitate community conversation in the Rust Never Sleeps Slack instance
-2. Facilitate regular project meetings keeping project members in sync and clear on next steps
-3. Contribute to defining embedded project features and requirements
-4. Contribute to defining cloud backend project features and requirements
-5. Contribute to defining cloud frontend project features and requirements
-+ many more...
 
 If you’d like to join the project and contribute to development, please see the [Getting Involved](#getting-involved) section above for more info.
 
@@ -237,8 +160,8 @@ Even though the community exists under the coaching business umbrella, you do no
 of the software that the community is working on. You'll get quality feedback on your pull requests which is already something very valuable in helping you become a better software engineer.
 
 If you would like to learn more about professional software engineer coaching, please
-[read more about it here](https://reltech.substack.com/p/professional-engineering-coaching?utm_source=url) and [schedule a completely free
-session with Jim](https://calendly.com/jim-hodapp-coaching).
+[read more about it here](https://www.jimhodappcoaching.com/refactor-software-engineer-coaching-program) and [schedule a completely free
+session with Jim](https://calendly.com/jim-hodapp-coaching/30min).
 
 <!--
 
