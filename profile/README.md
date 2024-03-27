@@ -38,7 +38,7 @@ exciting open source software primarily using Rust, [please complete this very s
     <li><a href="#learning-resources">Learning Resources</a></li>
     <li><a href="#community-values-and-code-of-conduct">Community Values and Code of Conduct</a></li>
     <li><a href="#faq">FAQ</a></li>
-    <li><a href="#software-engineer-coaching">Software Engineer Coaching and Mentorship</a></li>
+    <li><a href="#software-engineer-coaching-and-mentorship">Software Engineer Coaching and Mentorship</a></li>
   </ol>
 </details>
 
@@ -153,7 +153,7 @@ To join, [please complete this very short registration](https://rustneversleeps.
 
 ***
 
-<!-- SOFTWARE ENGINEER COACHING -->
+<!-- SOFTWARE ENGINEER COACHING AND MENTORSHIP -->
 
 ![22JHC_HZT_White_Logo_RGB](https://github.com/Jim-Hodapp-Coaching/.github/assets/3219120/3a1b5a6e-7a98-47d6-a26b-3dc4e1697c43)
 
