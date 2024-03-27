@@ -1,3 +1,6 @@
+
+
+![22JHC_HZT_Logo_RGB_small](https://github.com/Jim-Hodapp-Coaching/.github/assets/3219120/87500f00-7770-4a00-b5c1-877c3df21591)
 # Welcome! 👋
 
 Have you ever thought to yourself that you know you can become a better software developer (professionally or for fun) if you could get
@@ -6,7 +9,7 @@ an international group of software craftspeople who love building free software 
 
 We call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep, but _you_ still need to. Put code to work intelligently so you can rest more and be fully human. :)
 
-![rust_never_sleeps](https://user-images.githubusercontent.com/3219120/176586737-25719582-1b07-4552-a1bd-1e1c6a526a9d.png)
+<img src="https://user-images.githubusercontent.com/3219120/176586737-25719582-1b07-4552-a1bd-1e1c6a526a9d.png" alt="Rust Never Sleeps">
 
 Currently we:
 
@@ -35,7 +38,7 @@ exciting open source software primarily using Rust, [please complete this very s
     <li><a href="#learning-resources">Learning Resources</a></li>
     <li><a href="#community-values-and-code-of-conduct">Community Values and Code of Conduct</a></li>
     <li><a href="#faq">FAQ</a></li>
-    <li><a href="#software-engineer-coaching">Software Engineer Coaching</a></li>
+    <li><a href="#software-engineer-coaching">Software Engineer Coaching and Mentorship</a></li>
   </ol>
 </details>
 
@@ -152,7 +155,9 @@ To join, [please complete this very short registration](https://rustneversleeps.
 
 <!-- SOFTWARE ENGINEER COACHING -->
 
-# Software Engineer Coaching
+![22JHC_HZT_White_Logo_RGB](https://github.com/Jim-Hodapp-Coaching/.github/assets/3219120/3a1b5a6e-7a98-47d6-a26b-3dc4e1697c43)
+
+# Software Engineer Coaching and Mentorship
 
 The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) and is available to help you master all technical, communication, organizational and relational aspects of being a master software engineer. It's also how the bills get paid which allows for this community to exist which includes covering living expenses for Jim Hodapp.
 
