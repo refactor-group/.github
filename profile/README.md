@@ -23,7 +23,10 @@ We hang out on a Slack community called [Rust Never Sleeps](https://rustneversle
 We welcome new members into the community! Please feel free to browse around the repositories, clone the existing source code, try to get everything running,
 and even contribute bug fixes or to contributing a new feature.
 
-__Join the Rust Never Sleeps Community (Slack & GitHub Projects):__ If you'd like to join a diverse group of software developers from around the world building really
+### Join the Rust Never Sleeps Community
+(Both our Slack & GitHub Projects)
+
+If you'd like to join a diverse group of software developers from around the world building
 exciting open source software primarily using Rust, [please complete this very short intro form](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/).
 
 ***
