@@ -156,7 +156,8 @@ To join, [please complete this very short registration](https://rustneversleeps.
 
 <!-- SOFTWARE ENGINEER COACHING AND MENTORSHIP -->
 
-![22JHC_HZT_White_Logo_RGB](https://github.com/Jim-Hodapp-Coaching/.github/assets/3219120/3a1b5a6e-7a98-47d6-a26b-3dc4e1697c43)
+
+![24Refactor_Dark_HZT_Logo_RGB](https://github.com/user-attachments/assets/976e98d3-a590-435e-90e2-0ecae3ba5acf)
 
 # Software Engineer Coaching and Mentorship
 
