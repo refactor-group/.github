@@ -1,6 +1,4 @@
 
-
-![22JHC_HZT_Logo_RGB_small](https://github.com/Jim-Hodapp-Coaching/.github/assets/3219120/87500f00-7770-4a00-b5c1-877c3df21591)
 # Welcome! 👋
 
 Have you ever thought to yourself that you know you can become a better software developer (professionally or for fun) if you could get
