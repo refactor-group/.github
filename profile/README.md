@@ -8,7 +8,8 @@ an international group of software craftspeople who love building free software 
 We're a community of engineers from all around the world and we call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep,
 but _you_ still need to. Put code to work intelligently so you can rest more and realize your full human potential! :)
 
-We're hosted and sponsored by the software engineering coaching company [Refactor Group](https://refactorgroup.com) (formerly Jim Hodapp Coaching).
+We're hosted and sponsored by [Refactor Group](https://refactorgroup.com) (formerly Jim Hodapp Coaching), a company specializing in coaching
+and mentoring software engineers and engineering leaders to better reach their full career potential.
 
 <img src="https://user-images.githubusercontent.com/3219120/176586737-25719582-1b07-4552-a1bd-1e1c6a526a9d.png" alt="Rust Never Sleeps">
 
