@@ -5,11 +5,14 @@ Have you ever thought to yourself that you know you can become a better software
 someone with experience to provide you some help and guidance? Well that's exactly what this open source software community is for. We're
 an international group of software craftspeople who love building free software and helping others learn how to do this better.
 
-We call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep, but _you_ still need to. Put code to work intelligently so you can rest more and be fully human. :)
+We're a community of engineers from all around the world and we call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep,
+but _you_ still need to. Put code to work intelligently so you can rest more and realize your full human potential! :)
+
+We're hosted and sponsored by the software engineering coaching company [Refactor Group](https://refactorgroup.com) (formerly Jim Hodapp Coaching).
 
 <img src="https://user-images.githubusercontent.com/3219120/176586737-25719582-1b07-4552-a1bd-1e1c6a526a9d.png" alt="Rust Never Sleeps">
 
-Currently we:
+Currently we are focused on:
 
 1. Build useful and substantial projects that solve real world problems
 2. Are a place to learn and grow your comprehensive software development skillset with others who have all levels of experience (just getting started
