@@ -8,7 +8,7 @@ an international group of software craftspeople who love building free software 
 We're a community of engineers from all around the world and we call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep,
 but _you_ still need to. Put code to work intelligently so you can rest more and realize your full human potential! :)
 
-We're hosted and sponsored by [Refactor Group](https://refactorgroup.com) (formerly Jim Hodapp Coaching), a company specializing in coaching
+We're hosted and sponsored by [Refactor Group](https://refactorgroup.com), a company specializing in coaching
 and mentoring software engineers and engineering leaders to better reach their full career potential.
 
 <img src="https://user-images.githubusercontent.com/3219120/176586737-25719582-1b07-4552-a1bd-1e1c6a526a9d.png" alt="Rust Never Sleeps">
@@ -67,7 +67,7 @@ We create intentional community, currently in two main areas that you are welcom
 
 
 You may find our meetings notes and current community focus for each current software project here:
- * [Rust / Next.js based software engineering coaching platform](https://github.com/Jim-Hodapp-Coaching/refactor-platform-fe#intro)
+ * [Rust / Next.js based software engineering coaching platform](https://github.com/refactor-group/refactor-platform-fe#intro)
 
 ***
 
@@ -81,10 +81,10 @@ You may find our meetings notes and current community focus for each current sof
 
 **Software Engineering Coaching & Mentorship Platform:**
 
-Seeking to build a platform designed specifically for software engineering coaches and tech industry leaders to coach and mentor engineers to specific growth outcomes.
+Seeking to build a platform designed specifically for software engineering coaches and tech industry leaders to guide and mentor engineers to grow in specific ways.
 
-1. [Next.js + TailwindCSS frontend](https://github.com/Jim-Hodapp-Coaching/refactor-platform-fe)
-2. [Rust backend](https://github.com/Jim-Hodapp-Coaching/refactor-platform-rs)
+1. [Next.js + TailwindCSS frontend](https://github.com/refactor-group/refactor-platform-fe)
+2. [Rust backend](https://github.com/refactor-group/refactor-platform-rs)
 
 
 ### Inactive Projects
@@ -92,16 +92,16 @@ Seeking to build a platform designed specifically for software engineering coach
 The __Edge Project__ refers to the embedded/IoT aspects of the system including the hardware sensors, embedded board (Raspberry Pi Pico)
 and embedded Rust source code.
 
-👀 [Browse the Edge Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/3/views/1) that has all current feature/bug work
+👀 [Browse the Edge Project board](https://github.com/orgs/refactor-group/projects/3/views/1) that has all current feature/bug work
 
 A subproject of Edge, the __ESP32-WROOM-RP project__ is our effort to write an embedded Rust crate for all RP2040 series boards that lack WiFi but can gain WiFi ability via ESP32-WROOM-* boards
 
-👀 [Browse the ESP32-WROOM-RP Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/5) that has all current project feature/bug work
+👀 [Browse the ESP32-WROOM-RP Project board](https://github.com/orgs/refactor-group/projects/5) that has all current project feature/bug work
 
 The __Ambi Project__ refers to the web backend and frontend components of this system acting as a local or cloud-hosted system that
 processes, morphs and gives meaning to the data collected by the Edge pieces of the system.
 
-👀 [Browse the Ambi Project board](https://github.com/orgs/Jim-Hodapp-Coaching/projects/1/views/1?layout=board) that
+👀 [Browse the Ambi Project board](https://github.com/orgs/refactor-group/projects/1/views/1?layout=board) that
 has all current feature/bug work
 
 
@@ -165,14 +165,14 @@ To join, [please complete this very short registration](https://rustneversleeps.
 
 # Software Engineer Coaching and Mentorship
 
-The community exists as part of [professional software engineer coaching](https://www.jimhodappcoaching.com/) and is available to help you master all technical, communication, organizational and relational aspects of being a master software engineer. It's also how the bills get paid which allows for this community to exist which includes covering living expenses for Jim Hodapp.
+The community exists as part of [professional software engineer coaching](https://www.refactorcoach.com) and is available to help you master all technical, communication, organizational and relational aspects of being a master software engineer. It's also how the bills get paid which allows for this community to exist which includes covering living expenses for Jim Hodapp.
 
 Even though the community exists under the coaching business umbrella, you do not need to participate in coaching if that's not what you're currently needing. Learning from and participating in this community exists as a compliment to Jim's coaching services, but you will certainly benefit from just starting with community participation. Feel free to jump in, ask questions and propose changes to any
 of the software that the community is working on. You'll get quality feedback on your pull requests which is already something very valuable in helping you become a better software engineer.
 
-If you would like to learn more about professional software engineer coaching, please
-[read more about it here](https://www.jimhodappcoaching.com/refactor-software-engineer-coaching-program) and [schedule a completely free
-session with Jim](https://calendly.com/jim-hodapp-coaching/30min).
+If you would like to learn more about professional software and leadership coaching, please
+[read more about it here](https://www.refactorcoach.com/coaching) and [schedule a completely free
+session with Jim](https://calendly.com/refactor-coach/30min).
 
 <!--
 
