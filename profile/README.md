@@ -3,6 +3,8 @@
 
 We're a professional software agency and engineering community building custom software and open source projects while helping engineers grow their careers through one-on-one and group-based coaching.
 
+Continue reading for more details about what we do and opportunities to team with us to advance your own software career.
+
 ## What We Do
 
 ### Custom Software Development
