@@ -1,7 +1,7 @@
 ![Refactor Group](https://cdn.prod.website-files.com/66f43687f2d72cc3f6b5112e/66f439e1aac49b00e99e9b3d_24Refactor_REFsolo_HZT_Logo_RGB_Google_Admin.png)
 
 
-We're a software agency and engineering community building custom software and open source projects while helping engineers grow their careers.
+We're a professional software agency and engineering community building custom software and open source projects while helping engineers grow their careers through one-on-one and group-based coaching.
 
 ## What We Do
 
