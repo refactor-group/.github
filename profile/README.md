@@ -1,186 +1,78 @@
+# Refactor Group
 
-# Welcome! 👋
+![Refactor Group](https://cdn.prod.website-files.com/66f43687f2d72cc3f6b5112e/66f439e1aac49b00e99e9b3d_24Refactor_REFsolo_HZT_Logo_RGB_Google_Admin.png)
 
-Have you ever thought to yourself that you know you can become a better software developer (professionally or for fun) if you could get
-someone with experience to provide you some help and guidance? Well that's exactly what this open source software community is for. We're
-an international group of software craftspeople who love building free software and helping others learn how to do this better.
+We're a software agency and engineering community building custom software and open source projects while helping engineers grow their careers.
 
-We're a community of engineers from all around the world and we call ourselves _Rust Never Sleeps_. Indeed, Rust never needs to sleep,
-but _you_ still need to. Put code to work intelligently so you can rest more and realize your full human potential! :)
+## What We Do
 
-We're hosted and sponsored by [Refactor Group](https://refactorgroup.com), a company specializing in coaching
-and mentoring software engineers and engineering leaders to better reach their full career potential.
+### Custom Software Development
 
-<img src="https://user-images.githubusercontent.com/3219120/176586737-25719582-1b07-4552-a1bd-1e1c6a526a9d.png" alt="Rust Never Sleeps">
+Refactor Group is an AI-embracing software agency delivering custom solutions across the full technology stack. We specialize in:
 
-Currently we are focused on:
+- **Full Stack Web Applications** — Modern, scalable web platforms built with TypeScript, React, Next.js, Ruby, Elixir, Python, and Go
+- **Embedded & Bare Metal Systems** — Low-level firmware and IoT solutions using Rust, C, and C++
+- **Open Source Development** — Deep experience contributing to and maintaining open source projects, both individually and as a team
 
-1. Build useful and substantial projects that solve real world problems
-2. Are a place to learn and grow your comprehensive software development skillset with others who have all levels of experience (just getting started
-to multiple decades of software building experience) from around the world. Learn how to build and maintain professional software over a complete lifecycle.
-3. Provide opportunities for you to gain experience through practicing software development alongside a diverse set of beginning and experienced Rust developers.
+Our engineers bring decades of combined experience across diverse domains including IoT, multimedia, SaaS, and embedded systems. We work with modern languages like **Rust**, **TypeScript**, **Go**, **Python**, **Ruby**, and **Elixir**, alongside deep expertise in **C**, **C++**, **Java**, and **.NET**.
 
-We hang out on a Slack community called [Rust Never Sleeps](https://rustneversleepshq.slack.com/).
+### Software Engineer Coaching
 
-We welcome new members into the community! Please feel free to browse around the repositories, clone the existing source code, try to get everything running,
-and even contribute bug fixes or to contributing a new feature.
+Through [Refactor Coaching](https://refactorcoach.com), we offer expert coaching programs designed specifically for software engineers at every career stage. Our coaching covers:
 
-### Join the Rust Never Sleeps Community
-(Both our Slack & GitHub Projects)
+- **Career Direction & Job Transitions** — Define your path, prepare for interviews, negotiate offers
+- **Technical Skill Development** — Full stack development, Rust, embedded systems, software architecture
+- **Engineering Leadership** — Management skills, communication, and organizational influence
+- **AI-Era Effectiveness** — Harness AI tools to boost your productivity and evolve your skillset
 
-If you'd like to join a diverse group of software developers from around the world building
-exciting open source software primarily using Rust, [please complete this very short intro form](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/).
+Work one-on-one with experienced coaches who understand your challenges and are dedicated to helping you reach your full potential. [Schedule a free introductory session](https://refactorcoach.com/coaching) to learn more.
 
-***
+#### Scripter to Rust Cohort
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li><a href="#getting-involved">Getting Involved</a></li>
-    <li><a href="#software-projects">Software Projects</a></li>
-    <li><a href="#software-development">Software Development</a></li>
-    <li><a href="#learning-resources">Learning Resources</a></li>
-    <li><a href="#community-values-and-code-of-conduct">Community Values and Code of Conduct</a></li>
-    <li><a href="#faq">FAQ</a></li>
-    <li><a href="#software-engineer-coaching-and-mentorship">Software Engineer Coaching and Mentorship</a></li>
-  </ol>
-</details>
+New to Rust and coming from Python or another dynamically-typed language? Join our **Scripter to Rust** cohort — a 6-week group-based program following a custom-developed curriculum where you'll learn Rust by building a complete JSON parser from scratch.
 
-***
+This coach and mentor-led, project-based program covers ownership, borrowing, enums, error handling, FFI, and Python bindings. You'll ship a real project, build your portfolio, and join a community of developers making the same transition. Come learn how Rust can help you become a much better software engineer, enrich your software career, and make some new friends while you're doing it.
 
-<!-- GETTING INVOLVED -->
+Learn more and apply at [scriptertorust.com](https://scriptertorust.com)
 
-## Getting Involved
+## Refactor Coaching Platform
 
-You can get involved in a number of ways:
+We're building an open source platform designed for coaches and engineering leaders to guide and mentor software engineers toward specific growth outcomes.
 
-### Join our Community Slack Discussion and Biweekly Meetups
+**Status:** Currently in beta testing with early users
 
-We create intentional community, currently in two main areas that you are welcome to join:
+The platform provides tools for professional independent coaches, informal mentors, and engineering leaders to facilitate and enhance their coaching practice. Built with a **Rust backend** and **Next.js frontend**, it's an active open source project with opportunities for engineers to contribute.
 
-1. [Rust Never Sleeps Slack discussion](https://rustneversleepshq.slack.com/)
-   * We care deeply about creating diverse, supportive community. If you'd like to join our Slack community and GitHub organization, [please take a moment to fill out this brief set of questions to help us get to know you a bit better](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/)
+Explore the repositories:
+- [refactor-platform-rs](https://github.com/refactor-group/refactor-platform-rs) — Rust backend API
+- [refactor-platform-fe](https://github.com/refactor-group/refactor-platform-fe) — Next.js web frontend
 
-2. A biweekly call:
-   * ~~North/South America - Every other Thursday at 19:00 (UTC-6)~~ <-- currently on hiatus
+## Rust Never Sleeps Community
 
+![Rust Never Sleeps](https://user-images.githubusercontent.com/3219120/176586737-25719582-1b07-4552-a1bd-1e1c6a526a9d.png)
 
-You may find our meetings notes and current community focus for each current software project here:
- * [Rust / Next.js based software engineering coaching platform](https://github.com/refactor-group/refactor-platform-fe#intro)
+We host an international community of software craftspeople called **Rust Never Sleeps**. Members come from all around the world to build open source software, primarily in Rust, while learning from each other and growing their skills.
 
-***
+**What we offer:**
 
-<!-- SOFTWARE PROJECTS -->
+- A supportive Slack community for collaboration and mentorship
+- Opportunities to contribute to real open source projects
+- Code review and feedback to help you become a better engineer
+- A diverse group of developers ranging from beginners to veterans with decades of experience
 
-# Software Projects
+**Featured community projects:**
 
-## Overview
+- [esp32-wroom-rp](https://github.com/refactor-group/esp32-wroom-rp) — Rust-based RP2040 WiFi driver for ESP32-WROOM modules
+- [edge-rs](https://github.com/refactor-group/edge-rs) — Rust IoT sensor framework for Raspberry Pi Pico
+- [ambi-rs](https://github.com/refactor-group/ambi-rs) — Elixir-based IoT ambient sensor web service
 
-### Active Projects
+### Join Us
 
-**Software Engineering Coaching & Mentorship Platform:**
+If you'd like to join a diverse group of developers building open source software and mastering your craft, [complete this short intro form](https://docs.google.com/forms/d/e/1FAIpQLSdYE7D7dOF0cA4VbHq9TOaLsT7UJbsafbJtBqvknTqsvfHhJw/viewform) to request access to the community.
 
-Seeking to build a platform designed specifically for software engineering coaches and tech industry leaders to guide and mentor engineers to grow in specific ways.
+## Get in Touch
 
-1. [Next.js + TailwindCSS frontend](https://github.com/refactor-group/refactor-platform-fe)
-2. [Rust backend](https://github.com/refactor-group/refactor-platform-rs)
-
-
-### Inactive Projects
-
-The __Edge Project__ refers to the embedded/IoT aspects of the system including the hardware sensors, embedded board (Raspberry Pi Pico)
-and embedded Rust source code.
-
-👀 [Browse the Edge Project board](https://github.com/orgs/refactor-group/projects/3/views/1) that has all current feature/bug work
-
-A subproject of Edge, the __ESP32-WROOM-RP project__ is our effort to write an embedded Rust crate for all RP2040 series boards that lack WiFi but can gain WiFi ability via ESP32-WROOM-* boards
-
-👀 [Browse the ESP32-WROOM-RP Project board](https://github.com/orgs/refactor-group/projects/5) that has all current project feature/bug work
-
-The __Ambi Project__ refers to the web backend and frontend components of this system acting as a local or cloud-hosted system that
-processes, morphs and gives meaning to the data collected by the Edge pieces of the system.
-
-👀 [Browse the Ambi Project board](https://github.com/orgs/refactor-group/projects/1/views/1?layout=board) that
-has all current feature/bug work
-
-
-## Edge / Ambi Projects explore two main goals:
-
-1. Creating a simple, highly performant IoT framework to collect and control hardware/software agents at the edge that:
-    * Are almost always connected to the internet
-    * Are intermittently connected to the internet
-2. The use of the exciting new highly performant, safe and scalable Rust lang both for embedded and cloud implementations as well
-  as use of Elixir for cloud implementations
-
-***
-
-<!-- SOFTWARE DEVELOPMENT -->
-
-## Software Development
-
-If you’d like to join the project and contribute to development, please see the [Getting Involved](#getting-involved) section above for more info.
-
-***
-
-<!-- LEARNING RESOURCES -->
-
-## Learning Resources
-
-__Rust__
- * [Rust Book](https://doc.rust-lang.org/book/): Free, start here when learning Rust for the first time as well as for
- core language reference
- * [Rust by Example](https://doc.rust-lang.org/rust-by-example/): Free, hands-on and guided homework on almost every major
- area of Rust
- * [Rust in Action](https://www.manning.com/books/rust-in-action): A great intro book for new Rust developers (assumes zero
- prior language experience)
- * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans): When you want to go much deeper in Rust
-
-***
-
-<!-- COMMUNITY VALUES AND CODE OF CONDUCT -->
-
-# Community Values and Code of Conduct
-
-Please make sure to review our [community's overarching set of values and the code of conduct](./profile/CODE_OF_CONDUCT.md).
-
-__Note: all members of this community are expected to review, agree to, and sign the code of conduct before being invited into participating in the community.__
-
-***
-
-<!-- FAQ -->
-
-# FAQ
-
-1. How do I become a member of the Rust Never Sleeps community?
-
-To join, [please complete this very short registration](https://rustneversleeps.wufoo.com/forms/z1x3dy1j0ycafxq/).
-
-***
-
-<!-- SOFTWARE ENGINEER COACHING AND MENTORSHIP -->
-
-
-![24Refactor_Dark_HZT_Logo_RGB](https://github.com/user-attachments/assets/976e98d3-a590-435e-90e2-0ecae3ba5acf)
-
-# Software Engineer Coaching and Mentorship
-
-The community exists as part of [professional software engineer coaching](https://www.refactorcoach.com) and is available to help you master all technical, communication, organizational and relational aspects of being a master software engineer. It's also how the bills get paid which allows for this community to exist which includes covering living expenses for Jim Hodapp.
-
-Even though the community exists under the coaching business umbrella, you do not need to participate in coaching if that's not what you're currently needing. Learning from and participating in this community exists as a compliment to Jim's coaching services, but you will certainly benefit from just starting with community participation. Feel free to jump in, ask questions and propose changes to any
-of the software that the community is working on. You'll get quality feedback on your pull requests which is already something very valuable in helping you become a better software engineer.
-
-If you would like to learn more about professional software and leadership coaching, please
-[read more about it here](https://www.refactorcoach.com/coaching) and [schedule a completely free
-session with Jim](https://calendly.com/refactor-coach/30min).
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🌐 [refactorgroup.com](https://refactorgroup.com) — Custom software development services & careers
+- 🌐 [refactorcoach.com](https://refactorcoach.com) — Coaching services
+- 💬 Rust Never Sleeps community Slack — [Request an invite](https://docs.google.com/forms/d/e/1FAIpQLSdYE7D7dOF0cA4VbHq9TOaLsT7UJbsafbJtBqvknTqsvfHhJw/viewform)
+- 📧 [Contact us](mailto:hello@refactorgroup.com) — Custom software development inquiries
