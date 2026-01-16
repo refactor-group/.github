@@ -40,7 +40,7 @@ Learn more and apply at [scriptertorust.com](https://scriptertorust.com)
 
 We're building an open source platform designed for coaches and engineering leaders to guide and mentor software engineers toward specific growth outcomes.
 
-**Status:** Currently in beta testing with early users
+**Status:** Currently in beta testing with early users - if you're interested in being an early beta tester with free access to our production deployment, please [get in touch by emailing us](mailto:hello@refactorgroup.com).
 
 The platform provides tools for professional independent coaches, informal mentors, and engineering leaders to facilitate and enhance their coaching practice. Built with a **Rust backend** and **Next.js frontend**, it's an active open source project with opportunities for engineers to contribute.
 
